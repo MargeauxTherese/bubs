@@ -1,0 +1,191 @@
+.pngtree-style-blue-fog-border1 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  width: 1552px;
+  height: 1200px;
+  object-fit: cover;
+}
+.desktop-2-child,
+.desktop-2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1440px;
+  height: 158px;
+}
+.desktop-2-item {
+  top: 904px;
+  height: 120px;
+}
+.desktop-2-child1,
+.desktop-2-inner {
+  position: absolute;
+  top: -723px;
+  left: -554px;
+  width: 1460.7px;
+  height: 1492.9px;
+  object-fit: contain;
+}
+.desktop-2-child1 {
+  top: 101px;
+  left: 752px;
+}
+.removebg-preview-1-icon1 {
+  position: absolute;
+  top: 407px;
+  left: -79px;
+  width: 619px;
+  height: 624px;
+  object-fit: cover;
+}
+.it111-blog1 {
+  position: relative;
+  display: inline-block;
+  width: 137px;
+  flex-shrink: 0;
+}
+.desktop-2-inner1,
+.it111-blog-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.it111-blog-container {
+  flex-shrink: 0;
+}
+.desktop-2-inner1 {
+  position: absolute;
+  top: 43px;
+  left: 767px;
+  cursor: pointer;
+}
+.flex-page1,
+.i-am-eda {
+  position: absolute;
+  display: inline-block;
+}
+.flex-page1 {
+  top: 63px;
+  left: 918px;
+  width: 192px;
+  height: 32px;
+  cursor: pointer;
+}
+.i-am-eda {
+  top: 158px;
+  left: 350px;
+  font-size: var(--font-size-45xl);
+  text-transform: uppercase;
+  color: var(--color-black);
+  width: 1040px;
+  height: 36px;
+}
+.my-skills {
+  margin: 0;
+}
+.drawing1 {
+  line-height: 174.56%;
+}
+.drawing {
+  margin: 0;
+  font-family: var(--font-constantia);
+}
+.my-skills-container {
+  position: absolute;
+  top: 304px;
+  left: 790px;
+  text-transform: uppercase;
+  color: var(--color-black);
+  display: inline-block;
+  width: 500px;
+  height: 252px;
+}
+.i-also-see,
+.though-we-never,
+.years-from-now-container {
+  position: absolute;
+  font-family: var(--font-abhaya-libre-medium);
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.years-from-now-container {
+  top: 266px;
+  left: 400px;
+  line-height: 124.46%;
+  width: 311px;
+  height: 166px;
+}
+.i-also-see,
+.though-we-never {
+  top: 642px;
+  left: 425px;
+  line-height: 108.53%;
+  width: 310px;
+}
+.i-also-see {
+  top: 457px;
+  left: 477px;
+  line-height: 123.87%;
+}
+.padded-logo-1-icon1 {
+  position: absolute;
+  top: -2px;
+  left: -30px;
+  width: 380px;
+  height: 160px;
+  object-fit: cover;
+}
+.vector-icon2 {
+  position: relative;
+  width: 30px;
+  height: 25px;
+  object-fit: cover;
+}
+.edalaarnemgmailcom1 {
+  position: relative;
+  text-decoration: underline;
+}
+.vector-container {
+  position: absolute;
+  top: 954px;
+  left: 737px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-content);
+}
+.home1 {
+  position: relative;
+  display: inline-block;
+  width: 159px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.home-container {
+  position: absolute;
+  top: 62px;
+  left: 350px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  font-size: var(--font-size-21xl);
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-copperplate-gothic-bold);
+}

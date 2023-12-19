@@ -1,0 +1,191 @@
+.pngtree-style-blue-fog-border3 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  width: 1552px;
+  height: 1200px;
+  object-fit: cover;
+}
+.b3d3b7d-5628-4c1c-a357-ee4a158-icon {
+  position: absolute;
+  top: 205px;
+  left: 1110px;
+  width: 363px;
+  height: 585px;
+  object-fit: cover;
+}
+.fc89b272-a323-4f7a-a47c-df8e61-icon {
+  position: absolute;
+  top: 552px;
+  left: 788px;
+  width: 432px;
+  height: 412px;
+  object-fit: cover;
+}
+.d9e406ba-25d1-4388-b5b6-a2069f-icon {
+  position: absolute;
+  top: 466px;
+  left: 1026px;
+  width: 486px;
+  height: 437px;
+  object-fit: cover;
+}
+.i-am-not {
+  position: absolute;
+  top: 364px;
+  left: 160px;
+  font-family: var(--font-times-new-roman);
+  color: var(--color-black);
+  display: inline-block;
+  width: 877px;
+}
+.desktop-4-child,
+.desktop-4-item {
+  position: absolute;
+  top: -2px;
+  left: 235px;
+  background-color: var(--color-darkslateblue);
+  width: 1440px;
+  height: 158px;
+}
+.desktop-4-item {
+  top: 904px;
+  left: 0;
+  height: 120px;
+}
+.removebg-preview-1-icon3 {
+  position: absolute;
+  top: 400px;
+  left: -91px;
+  width: 631px;
+  height: 648px;
+  object-fit: cover;
+}
+.desktop-4-child1,
+.desktop-4-inner {
+  position: absolute;
+  top: -639px;
+  left: -741px;
+  width: 1460.7px;
+  height: 1479px;
+  object-fit: contain;
+}
+.desktop-4-child1 {
+  top: 218px;
+  left: 710px;
+  height: 1492.9px;
+}
+.padded-logo-1-icon3 {
+  position: absolute;
+  top: -4px;
+  left: -30px;
+  width: 380px;
+  height: 160px;
+  object-fit: cover;
+}
+.instagram-1-icon2,
+.vector-icon5 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.instagram-1-icon2 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.vector-parent3 {
+  position: absolute;
+  top: 949px;
+  left: 1190px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.flex-page3,
+.home3 {
+  display: inline-block;
+}
+.flex-page3 {
+  position: absolute;
+  top: 41px;
+  left: 350px;
+  width: 224px;
+}
+.home3 {
+  position: relative;
+  width: 132px;
+  height: 32px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.home-wrapper1,
+.it111-blog3 {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+}
+.home-wrapper1 {
+  top: 61px;
+  left: 622px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 10px;
+}
+.it111-blog3 {
+  top: 55px;
+  left: 779px;
+  display: inline-block;
+  width: 141px;
+  cursor: pointer;
+}
+.vector-icon6 {
+  position: relative;
+  width: 30px;
+  height: 25px;
+  object-fit: cover;
+}
+.edalaarnemgmailcom3 {
+  position: relative;
+  text-decoration: underline;
+}
+.vector-parent4 {
+  position: absolute;
+  top: 951px;
+  left: 736px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-content);
+}
+.hi-again-i {
+  margin: 0;
+}
+.hi-again-i-container {
+  position: absolute;
+  top: 156px;
+  left: 255px;
+  font-family: var(--font-times-new-roman);
+  color: var(--color-black);
+  display: inline-block;
+  width: 896px;
+  height: 120px;
+}
+.desktop-4 {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-copperplate-gothic-bold);
+}

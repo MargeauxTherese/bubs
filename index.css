@@ -1,0 +1,174 @@
+.pngtree-style-blue-fog-border {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  width: 1552px;
+  height: 1200px;
+  object-fit: cover;
+}
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1440px;
+  height: 158px;
+}
+.desktop-1-item {
+  top: 904px;
+  height: 120px;
+}
+.desktop-1-inner,
+.polygon-icon {
+  position: absolute;
+  top: -723px;
+  left: -554px;
+  width: 1460.7px;
+  height: 1492.9px;
+  object-fit: contain;
+}
+.polygon-icon {
+  top: 101px;
+  left: 752px;
+}
+.removebg-preview-1-icon {
+  position: absolute;
+  top: 407px;
+  left: -79px;
+  width: 619px;
+  height: 624px;
+  object-fit: cover;
+}
+.instagram-1-icon,
+.vector-icon {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.instagram-1-icon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.vector-parent {
+  position: absolute;
+  top: 949px;
+  left: 1190px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.it111-blog {
+  position: relative;
+  display: inline-block;
+  width: 137px;
+  flex-shrink: 0;
+}
+.it111-blog-wrapper {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flex-page,
+.frame-div {
+  position: absolute;
+  cursor: pointer;
+}
+.frame-div {
+  top: 43px;
+  left: 767px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flex-page {
+  top: 63px;
+  left: 918px;
+  display: inline-block;
+  width: 192px;
+  height: 32px;
+}
+.eda-laarne-mendio {
+  margin: 0;
+}
+.t171-bsemc-dat {
+  margin: 0;
+  font-size: var(--font-size-45xl);
+}
+.eda-laarne-mendio-container {
+  position: absolute;
+  top: 404px;
+  left: 63px;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 1342px;
+  height: 207px;
+  font-size: 110px;
+}
+.padded-logo-1-icon {
+  position: absolute;
+  top: -2px;
+  left: -30px;
+  width: 380px;
+  height: 160px;
+  object-fit: cover;
+}
+.vector-icon1 {
+  position: relative;
+  width: 30px;
+  height: 25px;
+  object-fit: cover;
+}
+.edalaarnemgmailcom {
+  position: relative;
+  text-decoration: underline;
+}
+.vector-group {
+  position: absolute;
+  top: 940px;
+  left: 805px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-content);
+}
+.home {
+  position: relative;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.home-wrapper {
+  position: absolute;
+  top: 63px;
+  left: 608px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  cursor: pointer;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-copperplate-gothic-bold);
+}
